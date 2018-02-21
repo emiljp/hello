@@ -1,0 +1,8 @@
+listelaver bliver et progran der kørt i en mappe, lægger en fil i den mappe med en liste af alle filerne i den mappe. Listen kan bruges som en check liste til at afkrydse om jeg har læst alle teksterne eller set alle videoerne i den mappe. Dette er også en øvelse i at bruge git.
+
+TODO:
+- lær git
+-- opret repo
+-- lav branch, push og merge branch med master
+-- lav branch af branch, push og merge branch med branch
+- skriv programmet
